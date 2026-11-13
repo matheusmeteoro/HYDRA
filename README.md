@@ -27,8 +27,8 @@ Enter in the folder "example" and see the data of "hydra100.csv"
 
 
 ## How to cite HYdra
-If you think this pipeline contributed to the work you are doing, consider citing it in your list of references. Here is a recommended citation: M. Koren. (2026). matheusmeteoro/hydra: HYbrid Dimensionallity Reduction Analysis (HYdra) (Version v1.0.0) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.24178018
+If you think this pipeline contributed to the work you are doing, consider citing it in your list of references. Here is a recommended citation: M. Koren. (2026). matheusmeteoro/hydra: HYbrid Dimensionallity Reduction Analysis (HYdra) (Version v1.0.0) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.24183476
 
 And you can navigate to the publication and export the citation in different styles and formats by clicking the icon below.
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24178018.svg)](https://doi.org/10.5281/zenodo.24178018)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24183476.svg)](https://doi.org/10.5281/zenodo.24183476)
